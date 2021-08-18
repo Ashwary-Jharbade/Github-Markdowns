@@ -24,10 +24,13 @@ This is how you represent bold tag *Italic*, alternative _Italic_
 #### List in markdowns
 
 ##### Unordered list
-
 List
 * List item one
 * List item two
 * List item three
+* * Sub list item
 ...
 * List item n.
+
+##### Ordered list
+
