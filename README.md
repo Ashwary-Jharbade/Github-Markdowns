@@ -125,10 +125,10 @@ Usage:
 ### Write Code in Markdowns
 
 ####  In-line code
-`const varx = true;`
+`javascript const varx = true;`
 
 #### Multi-line code
-```
+```javascript
 varx = false;
 console.log(varx)
 ```
