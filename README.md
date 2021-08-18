@@ -21,7 +21,7 @@ This is how you represent bold tag *Italic*, alternative _Italic_
 #### Link 
 [Click to visit my repository](https://github.com/Ashwary-Jharbade)
 
-#### List in markdowns
+### List in markdowns
 
 ##### Unordered list
 List
@@ -47,4 +47,8 @@ List
 - List item three
   - Sub list item one
   - Sub list item two
+
+### Embed Image
+
+![Octo Standards](https://github.com/Ashwary-Jharbade/hello-world/blob/master/images/create-octocat.png)
 
