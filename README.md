@@ -190,10 +190,22 @@ Content in the first column | Content in the second column
 
 ### Mentions
 
-Usage
-
+Usage:
 ```
 @username
 ```
 
 @Ashwary
+
+### Embed Emoji
+
+Usage:
+```
+:emoji-text:
+```
+:hugs:
+
+
+### Emoji Cheat Sheet
+
+[Follow this link to get reference for emoji's](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
