@@ -127,23 +127,37 @@ Usage:
 ####  In-line code
 
 Usage:
-`` const varx = true ``
+Enclosed below code in single back tick
+##### const varx = true;
 
 `const varx = true;`
 
 #### Multi-line code
 
 Usage:
-```
-```javascript
-varx = false;
-console.log(varx)
-```
-```
+Enclosed below code in triple back tick
+##### javascript
+##### varx = false;
+##### console.log(varx)
 
 ```javascript
 varx = false;
 console.log(varx)
 ```
+
+### Task List
+
+Usage:
+```
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [ ] this is an incomplete item
+```
+
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [ ] this is an incomplete item
 
 
