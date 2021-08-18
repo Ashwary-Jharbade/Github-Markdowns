@@ -28,7 +28,7 @@ List
 * List item one
 * List item two
 * List item three
-* * Sub list item
+  * Sub list item
 ...
 * List item n.
 
