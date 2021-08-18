@@ -97,6 +97,8 @@ List
   - Sub list item two
 
 ### Embed Image
-Usage `![Octo Standards](https://github.com/Ashwary-Jharbade/hello-world/blob/master/images/create-octocat.png)`
+Usage 
+`![Octo Standards](https://github.com/Ashwary-Jharbade/hello-world/blob/master/images/create-octocat.png)`
+
 ![Octo Standards](https://github.com/Ashwary-Jharbade/hello-world/blob/master/images/create-octocat.png)
 
