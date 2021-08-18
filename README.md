@@ -20,3 +20,14 @@ This is how you represent bold tag *Italic*, alternative _Italic_
 
 #### Link 
 [Click to visit my repository](https://github.com/Ashwary-Jharbade)
+
+#### List in markdowns
+
+##### Unordered list
+
+List
+* List item one
+* List item two
+* List item three
+...
+* List item n.
