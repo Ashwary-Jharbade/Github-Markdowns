@@ -160,4 +160,15 @@ Usage:
 - [x] this is a complete item
 - [ ] this is an incomplete item
 
+### Issue
 
+Usage:
+```
+#1
+mojombo#1
+mojombo/github-flavored-markdown#1
+```
+
+#1
+mojombo#1
+mojombo/github-flavored-markdown#1
