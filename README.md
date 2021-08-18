@@ -125,7 +125,8 @@ Usage:
 ### Write Code in Markdowns
 
 ####  In-line code
-`javascript const varx = true;`
+`
+javascript const varx = true;`
 
 #### Multi-line code
 ```javascript
