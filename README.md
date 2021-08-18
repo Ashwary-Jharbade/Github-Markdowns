@@ -5,42 +5,51 @@ Just helping me out have a track of certain markdowns
 
 #### Heading Tags
 
-Usage `# text`
+Usage: 
+`# text`
 # h1 Tag
 
-Usage `## text`
+Usage: 
+`## text`
 ## h2 Tag
 
-Usage `### text`
+Usage: 
+`### text`
 ### h3 Tag
 
-Usage `#### text`
+Usage: 
+`#### text`
 #### h4 Tag
 
-Usage `##### text`
+Usage: 
+`##### text`
 ##### h5 Tag
 
-Usage `###### text`
+Usage:
+`###### text`
 ###### h6 Tag
 
 #### Bold tag
-This is how you represent bold tag **Bold** usage `**text**`, alternative __Bold__ usage `__text__`
+This is how you represent bold tag **Bold** usage: `**text**`, alternative __Bold__ usage: `__text__`
 
 #### Italic tag
-This is how you represent bold tag *Italic* usage `*text*`, alternative _Italic_ usage `_text_`
+This is how you represent bold tag *Italic* usage: `*text*`, alternative _Italic_ usage: `_text_`
 
 #### Link
-Usage `[Write text here](Paste url here)`
+Usage: 
+`[Write text here](Paste url here)`
 [Click to visit my repository](https://github.com/Ashwary-Jharbade)
 
 #### Deleted Text
-Usage `~~text~~`
+Usage: 
+`~~text~~`
 Lets chekout this one ~~delete me~~
 
 ### List in markdowns
 
 ##### Unordered list
-Usage
+
+Usage:
 ```
 List
 * List item one
@@ -61,7 +70,7 @@ List
 
 ##### Ordered list
 
-Usage
+Usage:
 ```
 List
 1. List item one
@@ -79,8 +88,8 @@ List
 3. List item n
 
 ##### Alternate option for creating list
-Usage
 
+Usage:
 ```
 List
 - List item one
@@ -97,8 +106,22 @@ List
   - Sub list item two
 
 ### Embed Image
-Usage 
-`![Octo Standards](https://github.com/Ashwary-Jharbade/hello-world/blob/master/images/create-octocat.png)`
+Usage:
+`![Write here Text](Paste image url here)`
 
 ![Octo Standards](https://github.com/Ashwary-Jharbade/hello-world/blob/master/images/create-octocat.png)
+
+### Block Quote
+
+Usage:
+```
+###### Write quote heading here
+> Write text which you want to highlight
+> Write text which you want to highlight
+```
+
+###### Write quote heading here
+> Write text which you want to highlight
+> Write text which you want to highlight
+
 
