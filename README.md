@@ -29,7 +29,7 @@ List
 * List item two
 * List item three
   * Sub list item
-...
+  ...
 * List item n.
 
 ##### Ordered list
