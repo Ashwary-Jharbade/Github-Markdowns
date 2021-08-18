@@ -2,3 +2,6 @@
 Just helping me out have a track of certain markdowns
 
 ### Text Markdowns
+
+#### Bold tag
+** This is bold tag **
