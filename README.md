@@ -1,5 +1,5 @@
 # Github-Markdowns
-Just helping me out have a track of certain markdowns
+Just helping me out to have a track of certain markdowns
 
 ### Text Markdowns
 
