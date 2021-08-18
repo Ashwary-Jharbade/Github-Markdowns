@@ -116,12 +116,21 @@ Usage:
 Usage:
 ```
 ###### Write quote heading here
-> Write text which you want to highlight
-> Write text which you want to highlight
+> Write text which you want to highlight..
 ```
 
 ###### Write quote heading here
-> Write text which you want to highlight
-> Write text which you want to highlight
+> Write text which you want to highlight...
+
+### Write Code in Markdowns
+
+####  In-line code
+`const varx = true;`
+
+#### Multi-line code
+```
+varx = false;
+console.log(varx)
+```
 
 
